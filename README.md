@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a junior fron-end developer \
+💡 &nbsp; I'm a fron-end developer \
 💻 &nbsp; I'm working as a SalesForce Developer, my [Trailhead](https://trailblazer.me/id?lang=en_US)\
 🌱 &nbsp;I'm on track for learning more about SalesForce.\
 ✍️ &nbsp;In my free time, I play videogames, boardgames and try to spend time with friends.\
